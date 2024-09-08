@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rifki Rusdi Satma Putra
+# Hi there! 👋 I'm M. Rosyadi Aulawi
 
 <p align="center">
   <a href="mailto:dadi15122001@gmail.com">
@@ -7,7 +7,7 @@
   <a href="https://www.github.com/dadi-00/">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="[https://www.linkedin.com/in/rifkirusdi30](https://www.linkedin.com/in/m-rosyadi-aulawi-833392222/">
+  <a href="[https://www.linkedin.com/in/m-rosyadi-aulawi-833392222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/aulawirsyd/">
