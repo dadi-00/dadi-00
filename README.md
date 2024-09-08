@@ -31,15 +31,15 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RusdyZain&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dadi-00&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RusdyZain&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadi-00&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusdyZain&layout=compact&theme=radical&langs_count=12" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadi-00&layout=compact&theme=radical&langs_count=12" alt="Top Languages">
 </p>
 
 ---
