@@ -7,13 +7,17 @@
   <a href="https://www.github.com/dadi-00/">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="[https://www.linkedin.com/in/m-rosyadi-aulawi-833392222/">
+  <a href="https://www.linkedin.com/in/m-rosyadi-aulawi-833392222/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/aulawirsyd/">
+  <a href="https://www.instagram.com/aulawirsyd_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://web.facebook.com/rosyadi.aulawi.9">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </p>
+
 
 ---
 
